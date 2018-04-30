@@ -1,2 +1,2 @@
 # docker-training
-training
+training material
